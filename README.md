@@ -41,10 +41,11 @@ It emphasizes clean layout structure, meaningful tags, and proper content hierar
 ---
 
 ## 📂 Project Structure
-**semantic-html-layout/
-├── 📄 index.html # Main HTML layout file
-├── 🖼️ screenshot.png # Webpage layout preview
-└── 📘 README.md # Project documentation**
+```text
+semantic-html-layout/
+├── 📄 index.html        # Main HTML layout file
+├── 🖼️ screenshot.png    # Webpage layout preview
+└── 📘 README.md         # Project documentation
 
 Each section of the HTML file is organized using semantic tags to ensure better readability, accessibility, and SEO friendliness.
 
