@@ -5,8 +5,15 @@ A clean and responsive HTML layout assignment focusing on proper structure, sema
 ## 📌 Description
 This project is a clean and responsive HTML layout assignment designed to demonstrate proper HTML structure, semantic elements, spacing, alignment, and overall UI/UX best practices.  
 The goal of this assignment is to build a readable, well-organized, and user-friendly webpage using only HTML.
+---
+
+## ⚙️ Setup Steps
+1. Clone the repository or download it as a ZIP file.
+2. Open the index.html file in any modern web browser (Chrome, Edge, Firefox, etc.).
+3. No additional setup or dependencies are required.
 
 ---
+
 
 ## 🧱 Technologies Used
 - HTML5
