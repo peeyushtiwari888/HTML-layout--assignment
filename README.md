@@ -91,7 +91,7 @@ Each section of the HTML file is organized using semantic tags to ensure better 
 Visual preview of the webpage layout.
 
 ### 🖥️ Desktop View
-![HTML Layout Preview](screenshot.png)
+![HTML Layout Preview](HTML.png)
 
 ---
 
